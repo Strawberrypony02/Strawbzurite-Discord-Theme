@@ -14,8 +14,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
 
 :root {
-	--azurite-bg: #aaa;
-	--azurite-bg2: #aaa;
+	--azurite-bg: #008484;
+	--azurite-bg2: #002C2C;
 	--azurite-sec: #00ffff;
 	--azurite-links: #009393;
 	--azurite-home-icon: url('https://cdn.discordapp.com/attachments/468141324906921984/968943188486271036/logo.png?size=4096');
