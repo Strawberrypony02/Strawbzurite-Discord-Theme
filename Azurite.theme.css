@@ -14,10 +14,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
 
 :root {
-	--azurite-bg: #040429;
-	--azurite-bg2: #121236;
-	--azurite-sec: #24CC89;
-	--azurite-links: #009393;
+	--azurite-bg: #004949;
+	--azurite-bg2: #004949;
+	--azurite-sec: #009393;
+	--azurite-links: #00ffff;
 	--azurite-home-icon: url('https://cdn.discordapp.com/attachments/468141324906921984/968943188486271036/logo.png?size=4096');
 	--watermark-filter-invert: 0%;
 	--watermark-filter-sepia: 50%;
